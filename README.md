@@ -2,7 +2,7 @@
 
 =====Description=====
 
-A fully responsive One Page website for any type of device of brand the Converse. This is an simple website built for a coding competition of quantum hunts.
+A fully responsive One Page website for any type of device of brand the Converse. This is an simple website built for a coding competition.
 Worked on details like rainbow colored "customize" text, "send" button animation and color at bottom, Choosing matching colors for the website, Hovering effect with blue foreground in the bottom image grid, Small coloring changing details like dots of slick slider, deciding the fonts for different sections of webpage.
 
 =====Techologies=====
@@ -25,7 +25,7 @@ Just clik on the link which is provided in Respository.
 
 OR 
 
-Download the whole file (everything) and run it in VS Code.
+Pull the Repository in your Computer and run.
 
 =====Challenges=====
 
