@@ -1,5 +1,3 @@
-# quantum-Hunts
-
 =====Description=====
 
 A fully responsive One Page website for any type of device of brand the Converse. This is an simple website built for a coding competition.
